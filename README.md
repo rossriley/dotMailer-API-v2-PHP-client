@@ -1,10 +1,20 @@
 # dotMailer API v2 PHP client
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/romanpitak/dotmailer-api-v2-client.svg)](https://packagist.org/packages/romanpitak/dotmailer-api-v2-client)
-[![Total Downloads](https://img.shields.io/packagist/dt/romanpitak/dotmailer-api-v2-client.svg)](https://packagist.org/packages/romanpitak/dotmailer-api-v2-client)
-[![License](https://img.shields.io/packagist/l/romanpitak/dotmailer-api-v2-client.svg)](https://packagist.org/packages/romanpitak/dotmailer-api-v2-client)
-[![Code Climate](https://codeclimate.com/github/romanpitak/dotMailer-API-v2-PHP-client/badges/gpa.svg)](https://codeclimate.com/github/romanpitak/dotMailer-API-v2-PHP-client)
-[![Codacy Badge](https://www.codacy.com/project/badge/80aa496d952248c69a5352bbf159884a)](https://www.codacy.com/public/roman/dotMailer-API-v2-PHP-client)
+## Update: This is a fully maintained fork of the original package which is no longer usable on PHP7.
+
+To point to this fork in your composer.json add the following to the repositories section:
+
+    "repositories": [
+        { 
+            "type": "vcs", 
+            "url": "https://github.com/rossriley/dotMailer-API-v2-PHP-client"
+        }
+    ],
+
+[![Latest Stable Version](https://img.shields.io/packagist/v/rossriley/dotmailer-api-v2-client.svg)](https://packagist.org/packages/rossriley/dotmailer-api-v2-client)
+[![Total Downloads](https://img.shields.io/packagist/dt/rossriley/dotmailer-api-v2-client.svg)](https://packagist.org/packages/rossriley/dotmailer-api-v2-client)
+[![License](https://img.shields.io/packagist/l/rossriley/dotmailer-api-v2-client.svg)](https://packagist.org/packages/rossriley/dotmailer-api-v2-client)
+[![Code Climate](https://codeclimate.com/github/rossriley/dotMailer-API-v2-PHP-client/badges/gpa.svg)](https://codeclimate.com/github/rossriley/dotMailer-API-v2-PHP-client)
 
 (c) 2014-2016 Roman Piták, http://pitak.net <roman@pitak.net>
 
