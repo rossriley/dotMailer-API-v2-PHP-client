@@ -1,5 +1,5 @@
 {
-    "name": "romanpitak/dotmailer-api-v2-client",
+    "name": "rossriley/dotmailer-api-v2-client",
     "type": "library",
     "description": "Client library for the dotMailer v2 (REST) API.",
     "keywords": [
@@ -10,7 +10,7 @@
         "version 2",
         "client"
     ],
-    "homepage": "https://github.com/romanpitak/dotMailer-API-v2-PHP-client",
+    "homepage": "https://github.com/rossriley/dotMailer-API-v2-PHP-client",
     "license": "MIT",
     "authors": [
         {
@@ -18,12 +18,6 @@
             "email": "roman@pitak.net",
             "homepage": "http://pitak.net",
             "role": "Developer"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/romanpitak/PHP-REST-Client.git"
         }
     ],
     "require": {
